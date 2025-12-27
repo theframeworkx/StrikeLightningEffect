@@ -1,0 +1,6 @@
+name: strikeLightningEffect
+version: '1.0-SNAPSHOT'
+main: zxc.framework.strikeLightningEffect.StrikeLightningEffect
+api-version: '1.13'
+authors: [ framework ]
+description: Strike Lightning Effect on death player
